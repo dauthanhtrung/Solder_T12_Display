@@ -105,9 +105,12 @@ UniqueID=DC8CE066-87F5-4C37-B8C0-721DA55417CF
 Description=DISPLAY_T12 V1.0.0
 AllowFabrication=0
 ParameterCount=0
-VariationCount=2
+VariationCount=5
 Variation1=Designator=J1|UniqueId=\YIVBMFHN|Kind=0|AlternatePart= 
 Variation2=Designator=J1|UniqueId=\NXILDQUI|Kind=1|AlternatePart= 
+Variation3=Designator=B1|UniqueId=\ICYWVCEU|Kind=1|AlternatePart= 
+Variation4=Designator=B2|UniqueId=\GHAYSXZY|Kind=1|AlternatePart= 
+Variation5=Designator=B3|UniqueId=\NNXEEQFY|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
